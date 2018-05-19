@@ -1,0 +1,111 @@
+
+			.capaClasse{width: 100%;						   
+				height:300px;
+				border-bottom: 3px solid black;
+			}
+			ul.icoBar{list-style-type: none;
+			   padding: 0px;
+			   margin: 10px;
+			   font-size: 25px;
+			}
+			li.icoBar2{border: 2px solid black;
+			   border-radius: 8px;
+			   display: inline;
+			   padding: 4px;
+			   background-color: white;
+			}
+			a.corLink{text-decoration: none;
+			   color: inherit;
+			}
+			.divSup{background-color: #9ccb3e;
+			   border: 2px solid black;
+			   border-radius: 8px;
+			}
+			.divConteudo{background-color: #99d8f6;
+			   border: 2px solid black;
+			   border-radius: 8px;
+			   
+			}
+			div.conteudoStyle{margin: 0px 0% 5% 1%;
+			   padding: 0px 20px 0px 20px;
+			   width: 60%;
+			   border: 2px solid black;
+			   border-radius: 8px;
+			   background-color: white;
+			}
+			p.conteudoStyle{font-family: arial;
+			   text-indent: 20px;
+			   text-align: justify;
+			}
+			h2, h4, h5.conteudoStyle{font-family: Tahoma;
+			   color: #389885;
+			   text-align: justify;
+			}
+			ul.conteudoStyle{padding:0px;
+			   list-style-type: none;
+			   width: 100%;
+			   margin-left: 4%
+			}
+			li.conteudoStyle{display: inline;
+				padding-right: 10px;
+			}	
+			ul, p.conteudoStyle2{text-align: justify;
+			   font-family: arial;
+				font-size:15px;
+			}
+			form.conteudoStyle{padding: 0% 2% 2% 2%;
+			}
+			input.conteudoStyle{width:25%;
+			}
+			textarea.conteudoStyle{width: 100%;
+				height: 300px;
+			}
+			table.conteudoStyle{text-align: left;
+				padding: 2px;
+				border: 2px solid black;
+				border-collapse:collapse;
+				width: 100%;
+			}
+			th, td.conteudoStyle{padding:5px;
+				border: 2px solid black;
+			}
+			img.conteudoStyle{width: 30%;
+			   height: 50px;		
+			}
+			img.conteudoStyle2{width: 30%;
+			   height: 150px;
+			}
+			img.imgBar{width: 23px; 
+			   height:23px;
+			   padding: 3px 5px 0px 0px;
+			}
+			img.imgIr{width: 30px;
+			   float:right;
+			   height:30px;
+			   padding: 3px 5px 0px 0px;
+			}
+			#imgBanner{float: right;
+			   width: 32%;
+		       height: 300px;
+			   padding: 0px 1.5% 0px 0%;
+			   margin: 0px 0% 0% 2%;
+			   border-left: 2px solid black;
+			}	
+			#botaoSubir{width: 3%; 
+			   height: 5%;
+			   float: right;
+			   margin: 6px 0px 0px 0px;
+			}
+			p.direitos{
+			   text-align: center;
+			   padding:0px 0px 0.3% 0px;
+			}
+			#divRodape{border: 2px solid black;
+			   border-radius: 8px;
+			   background-color: #99d8f6;
+			}
+			.icoBar{font-family: Impact; 
+			   color: #389885;					
+			}	
+			.icoBar2{padding-right: 9px;
+			}
